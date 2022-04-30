@@ -1,0 +1,128 @@
+Comunicaciones:
+    Comunicacion entre dispositivos que no están conectados mediante cable
+
+Ondas:
+    Transmision de energia sin desplazamiento de materia
+
+Ondas electromagneticas:
+    Ondas que no necesitan un medio material para propagarse, se clasifican en función de la frecuencia.
+
+Ondas de radio:
+    Ondas cuya frecuencia se encuentra entre 9kHz y 300GHz
+
+Como de transmite la información?
+    1)Un transmisor codifica mensajes haciendo variar la frecuencia o la amplitud de la onda
+    2)Un receptor capta la señal y la decodifica en la forma deseada (Sonidos, imagenes, datos).
+
+Infraestructura:
+    antenas basicamente
+
+BTS:
+    Estacion base, es la direccion fisica de la antena, encargadas de proporcionar el vinculo entre usuarios, tienen un límite de conexio    nes 
+
+Despliegue de BTS:
+   Los proveedores de servicio despliegan las antenas de forma que se garantice:
+        1)La cobertura geográfica mas amplia posible
+        2)Una densidad suficiente de antenas para gestionar todo el tráfico
+
+Celda o Celula:
+    area de cobertura de una antena
+
+Macro celda:
+    Poseen un radio celular de 1km hasta 30km 
+
+Micro celda:
+    Poseen un radio celular de 200m hasta 2km 
+
+pico celda:
+    Poseen un radio celular de 4m hasta 200m 
+
+Forma Celular:
+    Se diseñan las celdas de forma que su cobertura sea hexagonal, 
+    solapandose en los límites con las celdas adyacentes de modo que se evite la pérdida de cobertura
+
+Red Celular:
+    Red de antenas que permiten la comunicacion móvil.
+
+Antena Sector:
+    transmite con un angulo de 120° de apertura, normalmente utilizadas para la transmision celular. 
+    Aumenta la profundidad de penetracion
+
+Haz de transmisión:
+    Se propaga de forma casi horizontal, y se disminuye su potencia con la distancia 
+
+DownTil y UpTil: 
+    Inclinacion que las antenas necesitan para reducir la zona sin cobertura asociada al patron de propagación
+
+Azimut:
+    ajuste horizontal con referencia al norte, se cuentan los grados en sentido horario.
+
+Cluster:
+    Grupo de celulas donde se utilizan todos los canales de transmisión disponibles.
+
+Canal de transmisión:
+    Frecuencia de transmisión disponible.
+
+Celdas adyacentes:
+    En el caso de las celda adyacentes las frecuencias de transmision (canales) deben ser diferentes para evitar interferencias 
+    y pérdidas de calidad de las comunicaciones.
+
+Distancia de reutilización:
+    Es la distancia mínima que puede haber entre el centro de dos celdas que utilicen el mismo canal de transmisión. 
+
+Equipos terminales:
+    equipos capaces de utilizar la red celular (Telefonos, equipos, IoT, automoviles)
+
+Comunicacion entre BTS:
+    Se realiza normalmente con fibra óptica
+
+MSC:
+    Centro de conmutación de móviles, punto central de un grupo de celdas, es donde se guarda la información de los suscriptores,
+    pudiendo ubicar a los suscriptores precisamente a la celula donde se encuentra, tipos: local, extrangero.
+
+Primera generacion:
+    Transmision analogica
+    baja calidad de voz
+    baja seguridad
+    FDMA Acceso multiple por división de frecuencias
+
+Segunda generacion:
+    SMS
+    Navegación de datos 50kbps
+    TDMA Acceso multiple por division de tiempo
+    CDMA Acceso multiple por division de código
+    
+Tercera generacion:
+    Navegación de datos 2Mbps
+    WCDMA wideband code division multiple access
+    Uso de GPS, videos, llamadas de voz por datos, etc. 
+    
+Cuarta generacion:
+    Navegación de datos 20Mbps a 100Mbps
+    Uso peliculas y television de alta resolución
+    OFDMA orthogonal frequency division multiple access
+    MIMO multiple input multiple output
+
+quinta generacion:
+    velocidad esperada 10Gbps
+    ondas milimetricas
+    tecnologia mimo mejorada
+    bandas de 5G:
+        low band (600-700MHz) speed from 30 to 250Mbps. cientos de millas cuadradas
+        mid band (2.5/3.5GHz) speed from 100 to 900Mbps. algunas millas cuadradas
+        high band (millimeter wave/24-39GHz)1-3Gbps speeds. hasta una milla
+ 
+Límite de Acumulación de Espectro: 
+    Cantidad máxima de espectro radioeléctrico que un Participante puede alcanzar en cada una de las fases de la Etapa de Adjudicación
+    concentración en la tenencia de frecuencias (monopolio).
+
+DSL:
+    Linea de abonado (suscriptor) digital
+
+ADSL:
+    Linea de abonado (suscriptor) digital asimetrica
+
+DTH:
+    difusion directa al hogar (tv satelital)
+
+ 
